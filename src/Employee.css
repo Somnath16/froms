@@ -1,0 +1,16 @@
+.center{
+    width: 60%;
+    min-height: 80px;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+label{
+    padding-right: 7%;
+    text-align: end;
+}
+.button{
+    padding-left: 20%;
+}
+body{
+    background-color: rgb(140, 146, 144);
+}
