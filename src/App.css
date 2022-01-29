@@ -1,0 +1,55 @@
+div{
+    align-items: center;
+    align-content:  center;
+    align-self: center;
+    padding: auto;
+
+}
+div.input{
+    margin: 0;
+    position: absolute;
+    padding-left: 4%;
+
+}
+div.button{
+    margin: 0;
+    position: absolute;
+    padding-top: 25%;
+    padding-left: 11%;
+
+}
+div.center{
+    margin: auto;
+    width: 30%;
+    padding: 5px;
+}
+h1{
+    color: brown;
+    background: transparent;
+    text-shadow: 0 2px 2px black;
+    padding-top: 10%;
+    text-align: center;
+    font-size: 50px;
+    
+}
+button{
+    text-align: center;
+    padding: 12px 20px;
+    background: rgb(97, 240, 92);
+    color: rgb(9, 12, 9);
+    border: 2px solid gray;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 15px;
+}
+input{
+    align-items: center;
+    width: 50%;
+    padding: 10px 100px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+}
