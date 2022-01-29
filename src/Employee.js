@@ -3,7 +3,6 @@ import React, {useState} from "react";
 import EmpShow from "./EmpShow";
 import './Employee.css'
 import EmpDel from "./EmpDel";
-//import EmpUpdate from './EmpUpdate';
 
 const Employee = () =>{
 
@@ -118,7 +117,6 @@ const Employee = () =>{
             id="department" />
             </div>
             <div className="button">
-              
                <button type="submit" className="btn btn-success" onClick={setData}>Add Employee</button> :
               {/* <button type="submit" className="btn btn-warning" onClick={setData}>Update Employee</button> */}
               
