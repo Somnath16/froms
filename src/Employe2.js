@@ -66,7 +66,7 @@ const Employe2 = () =>{
             }
             else if(employee && !toggleSubmit){
                 setRecords(
-                    records.map((elem, index) =>{
+                    records.map((elem, index) => {
                         if(index === editEmp){
                             return{...empEdited, employee}}
                         }
